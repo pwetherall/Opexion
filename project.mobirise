@@ -10,8 +10,9 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 12,
-    "versionPublish": "4.6.7"
+    "uniqCompNum": 18,
+    "versionPublish": "4.6.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -78,7 +79,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
@@ -91,10 +92,10 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.3"
           },
           "title": "Technology Today",
-          "text": "Opexion believes innovation and creativity can always find a better way forward.<br><br>We live in a world with an increasing elderly population, skyrocketing rates of chronic disease and rising costs of medical treatment and advances.<br><br>Technology is impacting these areas and will continue to play its part in 21st century healthcare.&nbsp;<br>\n<br>However, this technology can be expensive and its cost is often out of reach for our healthcare providers, delaying the beneficial healthcare outcomes it could provide.\n<br><br>Opexion finds alternative models to provide clinicians access to  the best healthcare solutions that improve patient care.",
+          "text": "Opexion believes innovation and creativity can always find a better way forward.<br><br> Part of the solution to relieve the growing strain on our health system lies in innovative technologies.&nbsp;However, these technologies can be expensive and the cost is often out of reach for our healthcare providers, delaying the beneficial healthcare outcomes they could provide.\n<br><br>Opexion finds alternative models to provide clinicians access to  the best healthcare solutions that improve patient care.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
