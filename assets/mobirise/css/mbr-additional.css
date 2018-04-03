@@ -12,16 +12,16 @@
 }
 #header1-2 H1 {
   font-size: 46px;
-  text-align: left;
-  color: #475577;
+  text-align: center;
+  color: #4c6972;
 }
 #header1-2 P {
   text-align: left;
-  color: #475577;
+  color: #4c6972;
 }
 #content5-9 .mbr-header .mbr-header__text {
-  text-align: left;
-  color: #475577;
+  text-align: center;
+  color: #4c6972;
   font-size: 36px;
 }
 #content5-9 .mbr-header .mbr-header__subtext {
@@ -32,14 +32,17 @@
   color: #fff;
 }
 #content5-9 .mbr-article P {
-  color: #475577;
+  color: #4c6972;
   font-size: 21px;
 }
 #form1-b .mbr-header__text {
   font-size: 36px;
-  color: #475577;
-  text-align: left;
+  color: #4c6972;
+  text-align: center;
 }
 #contacts1-j P {
-  color: #475577;
+  color: #4c6972;
+}
+#contacts1-j STRONG {
+  color: #4c6972;
 }
