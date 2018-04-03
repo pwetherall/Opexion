@@ -7,7 +7,9 @@
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
-        "#9cdd96"
+        "#9cdd96",
+        "#dadada",
+        "#e2e2e2"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -136,7 +138,7 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "color": "#475577",
+              "color": "#28324e",
               "font-size": "21px"
             }
           },
@@ -148,11 +150,11 @@
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/blur-chart-check-up-415779-2000x1333.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -181,7 +183,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/ambulance-architecture-building-263402-2000x1325.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#e2e2e2",
             "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": "0.6"
