@@ -116,11 +116,11 @@
             "H1": {
               "font-size": "46px",
               "text-align": "center",
-              "color": "#537ca8"
+              "color": "#475577"
             },
             "P": {
               "text-align": "left",
-              "color": "#537ca8"
+              "color": "#475577"
             }
           }
         },
