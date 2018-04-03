@@ -95,8 +95,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.2"
           },
           "title": "Technology Today",
           "text": "Opexion believes innovation and creativity can always find a better way forward.<br><br> Part of the solution to relieve the growing strain on our health system lies in innovative technologies.&nbsp;However, these technologies can be expensive and the cost is often out of reach for our healthcare providers, delaying the improved healthcare outcomes they could provide.\n<br><br>Opexion finds alternative models to provide clinicians access to the latest technologies for improving patient care.",
@@ -112,7 +112,8 @@
               "text-align": "left"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#ffffff"
             }
           }
         },
