@@ -86,7 +86,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-247786-1920x1062.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -155,8 +155,8 @@
             },
             "darkBackground": true,
             "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.6"
+            "overlayColor": "#7ac673",
+            "overlayOpacity": "0.3"
           },
           "title": "About Us",
           "text": "<p>Opexion's founders have 20 years' experience in healthcare solutions. We are focused on using that experience to make the best healthcare solutions available to help organisations to provide the best possible patient care.&nbsp;</p>",
