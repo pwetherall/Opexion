@@ -12,7 +12,7 @@
 }
 #header1-2 H1 {
   font-size: 46px;
-  text-align: left;
+  text-align: center;
   color: #475577;
 }
 #header1-2 P {
@@ -32,7 +32,7 @@
   color: #fff;
 }
 #content5-9 .mbr-article P {
-  color: #28324e;
+  color: #475577;
   font-size: 21px;
 }
 #form1-b .mbr-header__text {

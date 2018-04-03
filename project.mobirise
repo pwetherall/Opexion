@@ -88,7 +88,7 @@
             "showText": true,
             "showButtons": false,
             "showArrow": false,
-            "contentAlign": "right",
+            "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-247786-1920x1062.jpg",
             "parallax": true,
@@ -113,7 +113,7 @@
           "_styles": {
             "H1": {
               "font-size": "46px",
-              "text-align": "left",
+              "text-align": "center",
               "color": "#475577"
             },
             "P": {
@@ -138,7 +138,7 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "color": "#28324e",
+              "color": "#475577",
               "font-size": "21px"
             }
           },
