@@ -156,7 +156,7 @@
             "darkBackground": true,
             "overlay": true,
             "overlayColor": "#28324e",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.5"
           },
           "title": "About Us",
           "text": "<p>Opexion's founders have 20 years' experience in healthcare solutions. We are focused on using that experience to make the best healthcare solutions available to help organisations to provide the best possible patient care.</p><p><br></p><p>Opexion Pty Ltd</p><p>ABN 69 606 944 432&nbsp;</p>",
@@ -259,7 +259,12 @@
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-j"
+          "_anchor": "contacts1-j",
+          "_styles": {
+            "P": {
+              "color": "#475577"
+            }
+          }
         }
       ]
     }
