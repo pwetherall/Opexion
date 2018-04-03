@@ -103,7 +103,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "Technology Today",
-          "text": "Opexion believes innovation and creativity can always find a better way forward.<br><br> Part of the solution to relieve the growing strain on our health system lies in innovative technologies.&nbsp;However, these technologies can be expensive and the cost is often out of reach for our healthcare providers, delaying the improved healthcare outcomes they could provide.\n<br><br>Opexion finds alternative models to provide clinicians access to the latest technologies for improving patient care.",
+          "text": "<br>Opexion believes innovation and creativity can always find a better way forward.<br><br> Part of the solution to relieve the growing strain on our health system lies in innovative technologies.&nbsp;However, these technologies can be expensive and the cost is often out of reach for our healthcare providers, delaying the improved healthcare outcomes they could provide.\n<br><br>Opexion finds alternative models to provide clinicians access to the latest technologies for improving patient care.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -113,7 +113,7 @@
           "_styles": {
             "H1": {
               "font-size": "46px",
-              "text-align": "center",
+              "text-align": "left",
               "color": "#475577"
             },
             "P": {
@@ -126,7 +126,7 @@
           "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#475577",
               "font-size": "36px"
             },
@@ -225,7 +225,8 @@
           "_styles": {
             ".mbr-header__text": {
               "font-size": "36px",
-              "color": "#475577"
+              "color": "#475577",
+              "text-align": "left"
             }
           }
         },
