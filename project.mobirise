@@ -6,7 +6,9 @@
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#9cdd96"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
@@ -96,7 +98,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.3"
           },
           "title": "Technology Today",
           "text": "Opexion believes innovation and creativity can always find a better way forward.<br><br> Part of the solution to relieve the growing strain on our health system lies in innovative technologies.&nbsp;However, these technologies can be expensive and the cost is often out of reach for our healthcare providers, delaying the improved healthcare outcomes they could provide.\n<br><br>Opexion finds alternative models to provide clinicians access to the latest technologies for improving patient care.",
@@ -157,7 +159,7 @@
             "darkBackground": true,
             "overlay": true,
             "overlayColor": "#7ac673",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.2"
           },
           "title": "About Us",
           "text": "<p>Opexion's founders have 20 years' experience in healthcare solutions. We are focused on using that experience to make the best healthcare solutions available to help organisations to provide the best possible patient care.&nbsp;</p>",
