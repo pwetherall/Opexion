@@ -101,7 +101,7 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
+            "overlayColor": "#efefef",
             "overlayOpacity": "0.8"
           },
           "title": "Technology Today",
@@ -163,8 +163,8 @@
             },
             "darkBackground": true,
             "overlay": true,
-            "overlayColor": "#9cdd96",
-            "overlayOpacity": "0.1"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
           },
           "title": "About Us",
           "text": "<p>Opexion's founders have 20 years' experience in healthcare solutions. We are focused on using that experience to make the best healthcare solutions available to help organisations to provide the best possible patient care.&nbsp;</p>",
